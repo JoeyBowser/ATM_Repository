@@ -1,0 +1,11 @@
+C:\Users\joeyl\source\repos\ATM_Repository\ATM_Github\ATM_Github\bin\Debug\netcoreapp2.0\ATM_Github.deps.json
+C:\Users\joeyl\source\repos\ATM_Repository\ATM_Github\ATM_Github\bin\Debug\netcoreapp2.0\ATM_Github.runtimeconfig.json
+C:\Users\joeyl\source\repos\ATM_Repository\ATM_Github\ATM_Github\bin\Debug\netcoreapp2.0\ATM_Github.runtimeconfig.dev.json
+C:\Users\joeyl\source\repos\ATM_Repository\ATM_Github\ATM_Github\bin\Debug\netcoreapp2.0\ATM_Github.dll
+C:\Users\joeyl\source\repos\ATM_Repository\ATM_Github\ATM_Github\bin\Debug\netcoreapp2.0\ATM_Github.pdb
+C:\Users\joeyl\source\repos\ATM_Repository\ATM_Github\ATM_Github\obj\Debug\netcoreapp2.0\ATM_Github.csprojResolveAssemblyReference.cache
+C:\Users\joeyl\source\repos\ATM_Repository\ATM_Github\ATM_Github\obj\Debug\netcoreapp2.0\ATM_Github.csproj.CoreCompileInputs.cache
+C:\Users\joeyl\source\repos\ATM_Repository\ATM_Github\ATM_Github\obj\Debug\netcoreapp2.0\ATM_Github.AssemblyInfoInputs.cache
+C:\Users\joeyl\source\repos\ATM_Repository\ATM_Github\ATM_Github\obj\Debug\netcoreapp2.0\ATM_Github.AssemblyInfo.cs
+C:\Users\joeyl\source\repos\ATM_Repository\ATM_Github\ATM_Github\obj\Debug\netcoreapp2.0\ATM_Github.dll
+C:\Users\joeyl\source\repos\ATM_Repository\ATM_Github\ATM_Github\obj\Debug\netcoreapp2.0\ATM_Github.pdb
